@@ -23,7 +23,7 @@ pub struct Config {
     ...
  }
  ```
- 
+
 **Troubleshooting Guide**
 
 | Error                   | Solution                          |
@@ -40,7 +40,7 @@ Structure containing token information obtained from the Pump.fun API.
 4. Swap Result (SwapResult)
 Contains information about the result of the transaction.
 
-## Funciones Principales
+## Main Functions
 `get_coin_data` Obtains token information from the Pump.fun API.
 
 `get_swap_keys` Generates the AccountMeta keys needed for the swap instruction.
