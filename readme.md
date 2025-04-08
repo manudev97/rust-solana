@@ -2,6 +2,12 @@
 
 This script allows you to buy and sell (swap) tokens on Solana's Pump.fun platform. The script interacts with the Pump.fun program through the Solana blockchain, handling the creation of associated token accounts, price calculations, slippage, and transaction submissions.
 
+---------------------------------------
+
+<img src="assets/flow_buy.png" alt="flow_buy" width="400" height="400"/>
+
+---------------------------------------
+
 ## Main Components
 1. Configuración (Config)
 ```rust
